@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sneha 👋
 
-<!--
-**kushwahasneha893/kushwahasneha893** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+BE IT Graduate from Mumbai University with strong interest in backend development and software engineering.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+Java  
+Spring Boot  
+REST APIs  
+MySQL  
+HTML, CSS, JavaScript  
+React (Basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### MealMitra
+Full-stack food ordering platform connecting customers with home-based cooks and small food businesses.  
+Built using Java, C#(.Net), Spring Boot, JWT authentication, MySQL and Tailwind, React.
+
+### Human Emotion Detection
+Machine learning project that detects emotions from images using computer vision techniques.
+
+## 📚 Currently Learning
+Data Structures & Algorithms  
+Advanced Java  
+Backend Development Concepts
+
+## 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/sneha-kushwa  
+Email: kushwahasneha893@gmail.com
