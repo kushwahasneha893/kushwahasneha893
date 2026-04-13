@@ -4,9 +4,12 @@ BE IT Graduate from Mumbai University with strong interest in backend developmen
 
 ## 💻 Tech Stack
 Java  
-Spring Boot  
+Spring Boot
+C#
+ASP.net core
 REST APIs  
-MySQL  
+MySQL
+MonogoDB
 HTML, CSS, JavaScript  
 React (Basics)
 
